@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="udhgreen">#2EBAA1</color>
+    <color name="udhblue">#011627</color>
+    <color name="gray">#808080</color>
+
+
+    <!-- Colores para el modo claro -->
+    <color name="iconTintDay">#000000</color> <!-- Negro -->
+
+    <!-- Colores para el modo oscuro -->
+    <color name="iconTintNight">#FFFFFF</color> <!-- Blanco -->
+
+
+        <color name="purple_200">#BB86FC</color>
+        <color name="purple_500">#6200EE</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="teal_200">#03DAC5</color>
+
+</resources>
+
+
